@@ -17,5 +17,4 @@ async function setAdminClaim(uid) {
 }
 
 // Replace with the actual UID of the user
-const userUID = '76LFeOLYWGhGlAb5WzC9fI0MZC62'; // Change this UID to the user's UID
 setAdminClaim(userUID);
