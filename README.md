@@ -59,8 +59,6 @@ const auth = getAuth(app);
 export { db, auth };
 ```
 
-# prj-fire
-
 ## Project setup
 ```
 npm install
