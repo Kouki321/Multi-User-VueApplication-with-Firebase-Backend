@@ -8,12 +8,7 @@ import { getStorage } from 'firebase/storage';
 //import { collection, doc, setDoc, getDocs } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBXLhu9opLuARMIP6o9dNi-AKVQMm1-HKU",
-  authDomain: "fire-doctor.firebaseapp.com",
-  projectId: "fire-doctor",
-  storageBucket: "fire-doctor.appspot.com",
-  messagingSenderId: "911388288149",
-  appId: "1:911388288149:web:d1a6bc627e22b9dd60e79c"
+
 };
 
 // Initialize Firebase
